@@ -4,6 +4,7 @@
   "description": "preview ktx, hdr files",
   "icon": "./asset/logo.png",
   "version": "0.0.1",
+  "publisher": "ybt",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -38,6 +39,7 @@
     ]
   },
   "scripts": {
+    "release": "pnpm vsce publish --no-dependencies",
     "vscode:prepublish": "pnpm run package",
     "compile": "webpack",
     "watch": "webpack --watch",
