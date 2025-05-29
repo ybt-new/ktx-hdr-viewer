@@ -3,15 +3,15 @@
   "displayName": "KTX-HDR Viewer",
   "description": "preview ktx, hdr files",
   "icon": "./asset/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ybt",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.96.0"
   },
   "author": {
-		"name": "ybt",
-		"email": "651708784@qq.com"
-	},
+    "name": "ybt",
+    "email": "651708784@qq.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ybt-new/ktx-hdr-viewer"
@@ -54,7 +54,7 @@
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@types/three": "^0.175.0",
-    "@types/vscode": "^1.98.0",
+    "@types/vscode": "^1.96.0",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.28.0",
     "@vscode/test-cli": "^0.0.10",

@@ -16,6 +16,9 @@ A Visual Studio Code extension for previewing `.ktx`, `.ktx2`, and `.hdr` image 
 ### v0.0.1
 - Initial release.
 
+### v0.0.2
+- Compatibility
+
 ## License
 
 The [MIT License](LICENSE).
